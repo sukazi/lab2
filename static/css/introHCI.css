@@ -32,3 +32,9 @@ body {
      position: absolute;
      z-index: -1;	
 }
+.project{
+     margin-left: 40px;
+     background-color: #5EFFFD;
+     padding: 1px;
+     width: 10px;
+}
